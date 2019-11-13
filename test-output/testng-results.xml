@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1779" started-at="2019-11-06T15:48:44Z" finished-at="2019-11-06T15:48:46Z">
+  <suite name="Default suite" duration-ms="3083" started-at="2019-11-13T05:58:53Z" finished-at="2019-11-13T05:58:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1779" started-at="2019-11-06T15:48:44Z" finished-at="2019-11-06T15:48:46Z">
-      <class name="com.booking.api.tests.BookingAPITest">
-        <test-method status="PASS" signature="doBookingTest()[pri:0, instance:com.booking.api.tests.BookingAPITest@3c5a99da]" name="doBookingTest" duration-ms="1769" started-at="2019-11-06T10:48:44Z" finished-at="2019-11-06T10:48:46Z">
+    <test name="Default test" duration-ms="3083" started-at="2019-11-13T05:58:53Z" finished-at="2019-11-13T05:58:56Z">
+      <class name="com.api.tests.DELETECallAPI">
+        <test-method status="PASS" signature="deleteUserAPITest()[pri:0, instance:com.api.tests.DELETECallAPI@16c0663d]" name="deleteUserAPITest" duration-ms="3072" started-at="2019-11-13T00:58:53Z" finished-at="2019-11-13T00:58:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- doBookingTest -->
-      </class> <!-- com.booking.api.tests.BookingAPITest -->
+        </test-method> <!-- deleteUserAPITest -->
+      </class> <!-- com.api.tests.DELETECallAPI -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
